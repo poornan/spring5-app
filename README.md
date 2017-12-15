@@ -13,3 +13,6 @@ article on Auth0's blog. Head there to learn how to embed Tomcat 8 on a Spring 5
 # run uber jar
 java -jar build/libs/embedded-spring-5-1.0-SNAPSHOT-all.jar
 ```
+https://dzone.com/articles/spring-5-embedded-tomcat-8-and-gradle?oid=facebook&utm_content=bufferdb78a&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer
+
+http://brewinstall.org/Install-jq-on-Mac-with-Brew/
